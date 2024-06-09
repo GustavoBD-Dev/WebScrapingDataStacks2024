@@ -1,0 +1,7599 @@
+[
+    {
+        "name": "Facts",
+        "tools": {
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Spreadsheet based BI": [
+                "Rows.com"
+            ],
+            "Product Analytics": [
+                "June"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ]
+        }
+    },
+    {
+        "name": "1mg",
+        "tools": {
+            "Data Streaming": [
+                "Apache Kafka"
+            ],
+            "Event Tracking": [
+                "Rudderstack"
+            ],
+            "Reverse ETL Tools": [
+                "Rudderstack"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Rudderstack"
+            ],
+            "ETL Tools": [
+                "Rudderstack"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery",
+                "Redshift"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ]
+        }
+    },
+    {
+        "name": "3step-sports",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "ETL Tools": [
+                "Airbyte"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "5x",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Adevinta",
+        "tools": {
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "ETL Tools": [
+                "AWS Glue"
+            ],
+            "Data Lakes": [
+                "AWS S3",
+                "Delta.io",
+                "Apache Hudi"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt",
+                "Apache Spark",
+                "AWS Athena"
+            ],
+            "Workflow Orchestration": [
+                "Airflow",
+                "Argo"
+            ],
+            "Data Streaming": [
+                "Apache Kafka",
+                "AWS Kinesis"
+            ],
+            "Data Quality Monitoring": [
+                "Great Expectations",
+                "Soda"
+            ]
+        }
+    },
+    {
+        "name": "Affirm",
+        "tools": {
+            "Data Streaming": [
+                "Apache Kafka"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Warehouses": [
+                "Databricks",
+                "Snowflake"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Aggua",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Warehouses": [
+                "Databricks"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ]
+        }
+    },
+    {
+        "name": "Airbnb",
+        "tools": {
+            "No code automation": [
+                "Integromat"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau",
+                "Superset"
+            ],
+            "Customer Data Platform(CDP)": [
+                "mparticle"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Warehouses": [
+                "StarRocks"
+            ]
+        }
+    },
+    {
+        "name": "Airbyte",
+        "tools": {
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "ETL Tools": [
+                "Airbyte"
+            ],
+            "Business Intelligence (BI)": [
+                "Metabase"
+            ],
+            "Workflow Orchestration": [
+                "Dagster"
+            ]
+        }
+    },
+    {
+        "name": "Airtasker",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ]
+        }
+    },
+    {
+        "name": "Aldea-ventures",
+        "tools": {
+            "Data Warehouses": [
+                "Databricks",
+                "Snowflake"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ],
+            "Spreadsheet based BI": [
+                "Rows.com"
+            ],
+            "Workflow Orchestration": [
+                "Astronomer"
+            ],
+            "Operational Analytics ": [
+                "Netspring",
+                "Variance"
+            ],
+            "Reverse ETL Tools": [
+                "Hightouch"
+            ],
+            "Data Streaming": [
+                "AWS Kinesis"
+            ],
+            "Data Privacy and Governance": [
+                "Privacera"
+            ],
+            "Synthetic Data": [
+                "Datomize"
+            ],
+            "Feature Store": [
+                "Tecton"
+            ],
+            "Business Reliability/Observability": [
+                "Quantive Signals"
+            ],
+            "PLG CRM": [
+                "Correlated",
+                "Variance"
+            ],
+            "Data Cataloging": [
+                "data.world ",
+                "Secoda"
+            ],
+            "Data Discovery": [
+                "Secoda"
+            ],
+            "Data Quality Monitoring": [
+                "Monte Carlo Data"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Augmented Analytics": [
+                "Sisu Data"
+            ]
+        }
+    },
+    {
+        "name": "Aldefi",
+        "tools": {
+            "ETL Tools": [
+                "Airbyte"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Cataloging": [
+                "Tableau Data Catalog"
+            ]
+        }
+    },
+    {
+        "name": "Algomarketing",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Salesforce Einstein Analytics"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ]
+        }
+    },
+    {
+        "name": "Amazon",
+        "tools": {
+            "Data Streaming": [
+                "AWS Kinesis"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Data Warehouses": [
+                "Redshift",
+                "Vertica"
+            ],
+            "Business Intelligence (BI)": [
+                "Cluvio",
+                "Tableau"
+            ]
+        }
+    },
+    {
+        "name": "Amino",
+        "tools": {
+            "ETL Tools": [
+                "Stitch"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Workflow Orchestration": [
+                "Dagster"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake",
+                "Databricks"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ]
+        }
+    },
+    {
+        "name": "Amuse",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Sigma"
+            ],
+            "Spreadsheet based BI": [
+                "Sigma"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Andersen-inc",
+        "tools": {
+            "Spreadsheet based BI": [
+                "Canvas"
+            ]
+        }
+    },
+    {
+        "name": "Angellist",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Reverse ETL Tools": [
+                "Hightouch"
+            ],
+            "Business Intelligence (BI)": [
+                "Metabase"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "ETL Tools": [
+                "AWS Glue"
+            ],
+            "Workflow Orchestration": [
+                "Dagster"
+            ],
+            "Data Discovery": [
+                "Secoda"
+            ],
+            "Data Cataloging": [
+                "Secoda"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ]
+        }
+    },
+    {
+        "name": "Apache-doris",
+        "tools": {
+            "Data Streaming": [
+                "Apache Flink"
+            ],
+            "Data Modelling and Transformation": [
+                "Apache Spark"
+            ],
+            "Data Lakes": [
+                "Apache Hudi"
+            ]
+        }
+    },
+    {
+        "name": "App-creative",
+        "tools": {
+            "Data Warehouses": [
+                "Databricks"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ],
+            "Data Streaming": [
+                "AWS Kinesis"
+            ]
+        }
+    },
+    {
+        "name": "Apple",
+        "tools": {
+            "Data Lakes": [
+                "Min.io"
+            ]
+        }
+    },
+    {
+        "name": "Aritzia",
+        "tools": {
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Data Modelling and Transformation": [
+                "Dataform"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ],
+            "Data Quality Monitoring": [
+                "Anomalo"
+            ],
+            "Data Streaming": [
+                "Beam"
+            ],
+            "Workflow Orchestration": [
+                "Dagster"
+            ],
+            "Reverse ETL Tools": [
+                "Hightouch"
+            ]
+        }
+    },
+    {
+        "name": "Arka-energy",
+        "tools": {
+            "Spreadsheet based BI": [
+                "Rows.com"
+            ]
+        }
+    },
+    {
+        "name": "Assent-inc",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Reverse ETL Tools": [
+                "Hightouch"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ]
+        }
+    },
+    {
+        "name": "Astrato-analytics",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake",
+                "Google BigQuery",
+                "Databricks",
+                "Azure Synapse Analytics",
+                "Dremio",
+                "Redshift"
+            ],
+            "Data Lakes": [
+                "Databricks",
+                "Dremio"
+            ],
+            "ETL Tools": [
+                "Matillion"
+            ],
+            "Business Intelligence (BI)": [
+                "Astrato"
+            ]
+        }
+    },
+    {
+        "name": "Atadataco",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker",
+                "Sigma"
+            ],
+            "ETL Tools": [
+                "Fivetran",
+                "Rudderstack"
+            ],
+            "Reverse ETL Tools": [
+                "Hightouch",
+                "Rudderstack"
+            ],
+            "Workflow Orchestration": [
+                "Shipyard"
+            ],
+            "Data Warehouses": [
+                "Snowflake",
+                "Google BigQuery"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment",
+                "Rudderstack"
+            ],
+            "Event Tracking": [
+                "Segment",
+                "Rudderstack"
+            ],
+            "Spreadsheet based BI": [
+                "Canvas",
+                "Sigma"
+            ]
+        }
+    },
+    {
+        "name": "Atlan",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Automatad",
+        "tools": {
+            "Data Streaming": [
+                "Apache Kafka"
+            ],
+            "Business Intelligence (BI)": [
+                "Redash"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ]
+        }
+    },
+    {
+        "name": "Awmr",
+        "tools": {
+            "Workflow Orchestration": [
+                "Airflow"
+            ]
+        }
+    },
+    {
+        "name": "Axs",
+        "tools": {
+            "Data Warehouses": [
+                "Databricks",
+                "Redshift",
+                "Snowflake"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ]
+        }
+    },
+    {
+        "name": "Azimo",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Domo"
+            ],
+            "Workflow Orchestration": [
+                "Airflow",
+                "Google Cloud Composer"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Babylon-health",
+        "tools": {
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker",
+                "Tableau"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ]
+        }
+    },
+    {
+        "name": "Baobab-plus",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Business Intelligence (BI)": [
+                "Power BI"
+            ]
+        }
+    },
+    {
+        "name": "Beamery",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ]
+        }
+    },
+    {
+        "name": "Bed-bath-and-beyond",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Domo",
+                "Microstrategy",
+                "Tableau"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ]
+        }
+    },
+    {
+        "name": "Bench-accounting",
+        "tools": {
+            "Reverse ETL Tools": [
+                "Census"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "ETL Tools": [
+                "Fivetran",
+                "Stitch"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ]
+        }
+    },
+    {
+        "name": "Betterment",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ]
+        }
+    },
+    {
+        "name": "Bitmetric",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Qlikview",
+                "Power BI",
+                "Astrato"
+            ],
+            "Data Cataloging": [
+                "Qlikview"
+            ],
+            "Data Lakes": [
+                "Azure Cloud Storage"
+            ],
+            "ETL Tools": [
+                "Azure data factory",
+                "Talend"
+            ],
+            "Data Warehouses": [
+                "Azure Synapse Analytics",
+                "Google BigQuery",
+                "Snowflake"
+            ],
+            "Data Privacy and Governance": [
+                "Talend"
+            ]
+        }
+    },
+    {
+        "name": "Blablacar",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Data Streaming": [
+                "Beam",
+                "Google Cloud Dataflow",
+                "Apache Kafka"
+            ]
+        }
+    },
+    {
+        "name": "Bld",
+        "tools": {
+            "Metrics Store": [
+                "Cube"
+            ],
+            "Data Streaming": [
+                "Redpanda",
+                "Materialize"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Business Intelligence (BI)": [
+                "Metabase"
+            ],
+            "Data Lakes": [
+                "Google Cloud Storage"
+            ]
+        }
+    },
+    {
+        "name": "Blue-shell-consulting",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Business Intelligence (BI)": [
+                "Mode"
+            ],
+            "Data Cataloging": [
+                "Stemma AI"
+            ],
+            "Data Discovery": [
+                "Stemma AI"
+            ]
+        }
+    },
+    {
+        "name": "Bol",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ]
+        }
+    },
+    {
+        "name": "Bolt",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Looker",
+                "Tableau",
+                "Metabase"
+            ],
+            "Data Warehouses": [
+                "Redshift",
+                "Google BigQuery"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Reverse ETL Tools": [
+                "Hightouch"
+            ]
+        }
+    },
+    {
+        "name": "Branch-energy",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran",
+                "Stitch"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Data Workspace/ Collaboration": [
+                "Hex"
+            ],
+            "Reverse ETL Tools": [
+                "Census"
+            ]
+        }
+    },
+    {
+        "name": "Brooklyn-data-co",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran",
+                "Rudderstack",
+                "Meltano",
+                "Stitch",
+                "Supermetrics",
+                "Airbyte",
+                "Matillion"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Reverse ETL Tools": [
+                "Hightouch",
+                "Census",
+                "Rudderstack"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker",
+                "Mode",
+                "Sigma",
+                "Tableau",
+                "Lightdash"
+            ],
+            "Workflow Orchestration": [
+                "Astronomer",
+                "Airflow",
+                "Dagster"
+            ],
+            "Data Warehouses": [
+                "Databricks",
+                "Snowflake",
+                "Google BigQuery",
+                "Firebolt",
+                "Redshift"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ],
+            "Product Analytics": [
+                "Heap",
+                "Mixpanel"
+            ],
+            "Event Tracking": [
+                "Rudderstack",
+                "Segment",
+                "Snowplow"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Rudderstack",
+                "Segment",
+                "mparticle",
+                "Simon"
+            ],
+            "Spreadsheet based BI": [
+                "Sigma"
+            ],
+            "Data Privacy and Governance": [
+                "Privacy Dynamics"
+            ],
+            "Change Data Capture": [
+                "HVR"
+            ],
+            "Data Quality Monitoring": [
+                "Bigeye",
+                "Anomalo",
+                "Databand",
+                "Monte Carlo Data",
+                "Spectacles",
+                "Metaplane",
+                "Datafold"
+            ],
+            "Data Discovery": [
+                "Select Star",
+                "Secoda"
+            ],
+            "Data Cataloging": [
+                "Select Star",
+                "Secoda"
+            ],
+            "Metrics Store": [
+                "Transform Data",
+                "Lightdash"
+            ],
+            "Data Streaming": [
+                "Materialize",
+                "Apache Kafka"
+            ],
+            "Data Apps": [
+                "Streamlit"
+            ]
+        }
+    },
+    {
+        "name": "Bukuwarung",
+        "tools": {
+            "ETL Tools": [
+                "Stitch"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Streaming": [
+                "Apache Kafka"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ],
+            "Data Cataloging": [
+                "Data Hub"
+            ],
+            "Data Discovery": [
+                "Data Hub"
+            ]
+        }
+    },
+    {
+        "name": "By-aliens",
+        "tools": {
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ]
+        }
+    },
+    {
+        "name": "Bytewax",
+        "tools": {
+            "Spreadsheet based BI": [
+                "Rows.com"
+            ]
+        }
+    },
+    {
+        "name": "Call-criteria-quality-assurance-software",
+        "tools": {
+            "Spreadsheet based BI": [
+                "Rows.com"
+            ]
+        }
+    },
+    {
+        "name": "Canva",
+        "tools": {
+            "Reverse ETL Tools": [
+                "Census"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker",
+                "Mode"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Discovery": [
+                "Atlan"
+            ],
+            "Data Cataloging": [
+                "Atlan"
+            ]
+        }
+    },
+    {
+        "name": "Capdesk",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Quality Monitoring": [
+                "Spectacles"
+            ]
+        }
+    },
+    {
+        "name": "Cargo",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Catch-co",
+        "tools": {
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "ETL Tools": [
+                "Fivetran",
+                "Stitch"
+            ]
+        }
+    },
+    {
+        "name": "Catchcomau",
+        "tools": {
+            "Data Warehouses": [
+                "Redshift",
+                "Snowflake"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Discovery": [
+                "Alation"
+            ],
+            "Data Cataloging": [
+                "Alation"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ]
+        }
+    },
+    {
+        "name": "Checkr",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Streaming": [
+                "Apache Kafka"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Chime",
+        "tools": {
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Workspace/ Collaboration": [
+                "Hex"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Chongtechnologies",
+        "tools": {
+            "Data Warehouses": [
+                "Databricks",
+                "Azure Synapse Analytics"
+            ],
+            "Data Lakes": [
+                "Databricks",
+                "Azure Cloud Storage",
+                "AWS S3"
+            ],
+            "Data Streaming": [
+                "Apache Kafka",
+                "KsqlDB",
+                "Apache Flink"
+            ],
+            "Data Modelling and Transformation": [
+                "Apache Spark"
+            ],
+            "ETL Tools": [
+                "Azure data factory"
+            ],
+            "Business Intelligence (BI)": [
+                "Superset",
+                "Power BI"
+            ]
+        }
+    },
+    {
+        "name": "Chownow",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "ETL Tools": [
+                "Fivetran",
+                "Matillion"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ]
+        }
+    },
+    {
+        "name": "Ciclic",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Metabase",
+                "Power BI"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "ETL Tools": [
+                "Airbyte"
+            ]
+        }
+    },
+    {
+        "name": "Circleup-inc",
+        "tools": {
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Modelling and Transformation": [
+                "Apache Spark"
+            ],
+            "Data Lakes": [
+                "AWS S3",
+                "Google Cloud Storage"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery",
+                "Hive"
+            ],
+            "Business Intelligence (BI)": [
+                "Metabase",
+                "Looker",
+                "Tableau"
+            ],
+            "Data Streaming": [
+                "Apache Kafka"
+            ]
+        }
+    },
+    {
+        "name": "Clark",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Superset"
+            ],
+            "Product Analytics": [
+                "Mixpanel"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Streaming": [
+                "AWS Kinesis"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Reverse ETL Tools": [
+                "Hightouch"
+            ]
+        }
+    },
+    {
+        "name": "Classy",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Clearbit",
+        "tools": {
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "No code automation": [
+                "Tray.io"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "ETL Tools": [
+                "Stitch"
+            ],
+            "Business Intelligence (BI)": [
+                "Mode"
+            ],
+            "Reverse ETL Tools": [
+                "Census"
+            ]
+        }
+    },
+    {
+        "name": "Clearcover",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran",
+                "Alooma"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Redshift",
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Clevermaps",
+        "tools": {
+            "Data Workspace/ Collaboration": [
+                "Keboola"
+            ],
+            "Managed Data Stack": [
+                "Keboola"
+            ],
+            "Business Intelligence (BI)": [
+                "GoodData",
+                "CleverMaps"
+            ],
+            "Metrics Store": [
+                "GoodData"
+            ],
+            "Workflow Orchestration": [
+                "Dagster"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Data Apps": [
+                "Streamlit"
+            ]
+        }
+    },
+    {
+        "name": "Clickhouse",
+        "tools": {
+            "Data Streaming": [
+                "Apache Kafka"
+            ]
+        }
+    },
+    {
+        "name": "Clickup",
+        "tools": {
+            "Reverse ETL Tools": [
+                "Census"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ]
+        }
+    },
+    {
+        "name": "Cloudfit",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ]
+        }
+    },
+    {
+        "name": "Coca-cola",
+        "tools": {
+            "Augmented Analytics": [
+                "Yellowfinbi"
+            ],
+            "Data Quality Monitoring": [
+                "ClueDin"
+            ],
+            "Data Cataloging": [
+                "Dataedo"
+            ],
+            "Business Intelligence (BI)": [
+                "Salesforce Einstein Analytics"
+            ],
+            "Data Streaming": [
+                "AWS Kinesis"
+            ]
+        }
+    },
+    {
+        "name": "Coginiti",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Power BI"
+            ],
+            "Data Workspace/ Collaboration": [
+                "Coginiti"
+            ],
+            "Reverse ETL Tools": [
+                "Census"
+            ],
+            "ETL Tools": [
+                "Hevo Data"
+            ]
+        }
+    },
+    {
+        "name": "Collectors-universe",
+        "tools": {
+            "Data Workspace/ Collaboration": [
+                "Hex"
+            ],
+            "ETL Tools": [
+                "Stitch"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ]
+        }
+    },
+    {
+        "name": "Collibra",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "Apache Spark",
+                "dbt"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Business Intelligence (BI)": [
+                "Redash",
+                "Tableau"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ]
+        }
+    },
+    {
+        "name": "Construct-connect",
+        "tools": {
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Power BI"
+            ]
+        }
+    },
+    {
+        "name": "Contentful",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Looker",
+                "Redash"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Streaming": [
+                "Apache Kafka"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "ETL Tools": [
+                "Stitch"
+            ]
+        }
+    },
+    {
+        "name": "Convoy",
+        "tools": {
+            "Data Cataloging": [
+                "Stemma AI"
+            ],
+            "Data Discovery": [
+                "Stemma AI"
+            ],
+            "Business Intelligence (BI)": [
+                "Metabase",
+                "Tableau"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Streaming": [
+                "Apache Kafka"
+            ]
+        }
+    },
+    {
+        "name": "Coral",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt",
+                "AWS Athena"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "Metrics Store": [
+                "Lightdash"
+            ],
+            "Business Intelligence (BI)": [
+                "Lightdash"
+            ],
+            "ETL Tools": [
+                "AWS Glue",
+                "Airbyte"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ]
+        }
+    },
+    {
+        "name": "Cortex",
+        "tools": {
+            "Data Warehouses": [
+                "Databricks",
+                "Snowflake"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ],
+            "Data Streaming": [
+                "Apache Kafka",
+                "Apache Flink"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ]
+        }
+    },
+    {
+        "name": "Coverflex",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran",
+                "Stitch"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Metrics Store": [
+                "Lightdash"
+            ],
+            "Business Intelligence (BI)": [
+                "Lightdash"
+            ],
+            "Data Lakes": [
+                "Google Cloud Storage"
+            ]
+        }
+    },
+    {
+        "name": "Craft",
+        "tools": {
+            "Data Streaming": [
+                "AWS Kinesis"
+            ],
+            "ETL Tools": [
+                "AWS Glue"
+            ],
+            "Data Modelling and Transformation": [
+                "AWS Athena"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "Product Analytics": [
+                "Pendo"
+            ]
+        }
+    },
+    {
+        "name": "Createthink",
+        "tools": {
+            "Data Warehouses": [
+                "Databricks"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ]
+        }
+    },
+    {
+        "name": "Creditxpert",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Cube-dev",
+        "tools": {
+            "Metrics Store": [
+                "Cube"
+            ]
+        }
+    },
+    {
+        "name": "Culture-amp",
+        "tools": {
+            "Data Privacy and Governance": [
+                "Avo"
+            ],
+            "Product Analytics": [
+                "Avo"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker",
+                "Salesforce Einstein Analytics"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Reverse ETL Tools": [
+                "Census"
+            ]
+        }
+    },
+    {
+        "name": "Custom-ink",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Tableau",
+                "Metabase"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ]
+        }
+    },
+    {
+        "name": "Customer",
+        "tools": {
+            "ETL Tools": [
+                "Stitch"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Mode"
+            ]
+        }
+    },
+    {
+        "name": "Dadosfera",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt",
+                "AWS Athena",
+                "Apache Spark"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "ETL Tools": [
+                "AWS Glue"
+            ],
+            "Data Streaming": [
+                "AWS Kinesis"
+            ]
+        }
+    },
+    {
+        "name": "Dashlane",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt",
+                "AWS Athena",
+                "Apache Spark"
+            ],
+            "Data Streaming": [
+                "AWS Kinesis"
+            ],
+            "ETL Tools": [
+                "Airbyte",
+                "AWS Glue"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Data Quality Monitoring": [
+                "Elementary Data"
+            ],
+            "Reverse ETL Tools": [
+                "Hightouch"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ]
+        }
+    },
+    {
+        "name": "Databandcom",
+        "tools": {
+            "Data Warehouses": [
+                "Databricks"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ],
+            "Data Modelling and Transformation": [
+                "Apache Spark"
+            ],
+            "Data Quality Monitoring": [
+                "Databand"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ]
+        }
+    },
+    {
+        "name": "Datacoves",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt",
+                "Datameer"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Business Intelligence (BI)": [
+                "Superset",
+                "Tableau",
+                "Power BI",
+                "Looker",
+                "Hashboard"
+            ],
+            "ETL Tools": [
+                "Airbyte",
+                "Fivetran",
+                "StreamSets"
+            ],
+            "Data Warehouses": [
+                "Snowflake",
+                "Databricks",
+                "Redshift",
+                "Google BigQuery"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ],
+            "Data Apps": [
+                "Streamlit"
+            ],
+            "Data Discovery": [
+                "Alation",
+                "Collibra"
+            ],
+            "Data Cataloging": [
+                "Alation",
+                "Collibra"
+            ],
+            "Data Privacy and Governance": [
+                "Collibra"
+            ],
+            "Reverse ETL Tools": [
+                "Hightouch"
+            ],
+            "Data Streaming": [
+                "StreamSets"
+            ]
+        }
+    },
+    {
+        "name": "Dataddo",
+        "tools": {
+            "ETL Tools": [
+                "Dataddo"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Business Intelligence (BI)": [
+                "Power BI",
+                "Tableau"
+            ]
+        }
+    },
+    {
+        "name": "Datafold",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Reverse ETL Tools": [
+                "Hightouch"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Quality Monitoring": [
+                "Datafold"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Workspace/ Collaboration": [
+                "Hex"
+            ]
+        }
+    },
+    {
+        "name": "Datainsider",
+        "tools": {
+            "Data Streaming": [
+                "Apache Kafka"
+            ]
+        }
+    },
+    {
+        "name": "Datalab",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran",
+                "Matillion"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Business Intelligence (BI)": [
+                "Power BI"
+            ],
+            "Augmented Analytics": [
+                "ThoughtSpot"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Datarobot",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake",
+                "Redshift"
+            ],
+            "ETL Tools": [
+                "Stitch"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Streaming": [
+                "AWS Kinesis"
+            ]
+        }
+    },
+    {
+        "name": "Datazip",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Jitsu"
+            ],
+            "Business Intelligence (BI)": [
+                "Superset"
+            ]
+        }
+    },
+    {
+        "name": "Datuumai",
+        "tools": {
+            "ETL Tools": [
+                "Airbyte"
+            ],
+            "Data Lakes": [
+                "Google Cloud Storage"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Decisiontree-analytics",
+        "tools": {
+            "ETL Tools": [
+                "Data Channel"
+            ],
+            "Data Warehouses": [
+                "Redshift",
+                "Google BigQuery"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ]
+        }
+    },
+    {
+        "name": "Decisiontree-analytics-services",
+        "tools": {
+            "ETL Tools": [
+                "Data Channel"
+            ],
+            "Data Warehouses": [
+                "Redshift",
+                "Google BigQuery"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ]
+        }
+    },
+    {
+        "name": "Decisiontree-analytics-and-services",
+        "tools": {
+            "ETL Tools": [
+                "Data Channel"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ]
+        }
+    },
+    {
+        "name": "Decube",
+        "tools": {
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ]
+        }
+    },
+    {
+        "name": "Deepnote",
+        "tools": {
+            "Data Warehouses": [
+                "Google BigQuery",
+                "Snowflake"
+            ],
+            "ETL Tools": [
+                "Stitch"
+            ]
+        }
+    },
+    {
+        "name": "Definite",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran",
+                "Airbyte"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ]
+        }
+    },
+    {
+        "name": "Deliveroo",
+        "tools": {
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker",
+                "Tableau"
+            ],
+            "Data Warehouses": [
+                "Snowflake",
+                "Redshift"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ]
+        }
+    },
+    {
+        "name": "Delivery-hero",
+        "tools": {
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Privacy and Governance": [
+                "Avo"
+            ],
+            "Product Analytics": [
+                "Avo"
+            ]
+        }
+    },
+    {
+        "name": "Devoted-health",
+        "tools": {
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Dialogue",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Metabase",
+                "Looker"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Event Tracking": [
+                "Snowplow"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Dinmo",
+        "tools": {
+            "Data Warehouses": [
+                "Databricks",
+                "Google BigQuery",
+                "Snowflake"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ]
+        }
+    },
+    {
+        "name": "Dotz-inc",
+        "tools": {
+            "Workflow Orchestration": [
+                "Airflow",
+                "Google Cloud Composer"
+            ],
+            "Data Lakes": [
+                "Google Cloud Storage"
+            ],
+            "Data Streaming": [
+                "Google Cloud Dataflow"
+            ],
+            "Data Cataloging": [
+                "Google Data Catalog",
+                "Qlikview"
+            ],
+            "Data Modelling and Transformation": [
+                "Apache Spark",
+                "Dataform"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau",
+                "Qlikview",
+                "Looker"
+            ],
+            "Data Discovery": [
+                "Google cloud data catalog & discovery"
+            ]
+        }
+    },
+    {
+        "name": "Dqlabs-inc",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Dribbble",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Metabase"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Iteratively"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Workflow Orchestration": [
+                "Dagster"
+            ],
+            "Event Tracking": [
+                "Snowplow"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ]
+        }
+    },
+    {
+        "name": "Drizly",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Warehouses": [
+                "Databricks",
+                "Snowflake"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ],
+            "Data Streaming": [
+                "Confluent",
+                "Materialize"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Dutchie",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Workflow Orchestration": [
+                "Dagster"
+            ]
+        }
+    },
+    {
+        "name": "Dwhdev",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Ebury",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Workspace/ Collaboration": [
+                "Hex"
+            ],
+            "ETL Tools": [
+                "Hevo Data"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ]
+        }
+    },
+    {
+        "name": "Egnyte",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Augmented Analytics": [
+                "Sisu Data"
+            ]
+        }
+    },
+    {
+        "name": "Electric",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Product Analytics": [
+                "Pendo"
+            ],
+            "Data Streaming": [
+                "AWS Kinesis"
+            ],
+            "ETL Tools": [
+                "Stitch"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "No code automation": [
+                "Celigo"
+            ]
+        }
+    },
+    {
+        "name": "Envoy",
+        "tools": {
+            "ETL Tools": [
+                "Stitch"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ]
+        }
+    },
+    {
+        "name": "Estuary",
+        "tools": {
+            "Reverse ETL Tools": [
+                "Hightouch"
+            ]
+        }
+    },
+    {
+        "name": "Etna-research",
+        "tools": {
+            "Data Lakes": [
+                "AWS S3"
+            ]
+        }
+    },
+    {
+        "name": "Eureka-inc",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Cataloging": [
+                "Google Data Catalog"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ]
+        }
+    },
+    {
+        "name": "Ez-texting",
+        "tools": {
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ]
+        }
+    },
+    {
+        "name": "Facebook",
+        "tools": {
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Data Warehouses": [
+                "Vertica",
+                "Snowflake"
+            ],
+            "Data Cataloging": [
+                "Cloudera"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau",
+                "Microstrategy"
+            ],
+            "ETL Tools": [
+                "Matillion"
+            ]
+        }
+    },
+    {
+        "name": "Fanatics-inc",
+        "tools": {}
+    },
+    {
+        "name": "Fantastics",
+        "tools": {}
+    },
+    {
+        "name": "Fetch-rewards",
+        "tools": {
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Quality Monitoring": [
+                "Great Expectations"
+            ],
+            "Business Intelligence (BI)": [
+                "Superset",
+                "Tableau"
+            ],
+            "Data Streaming": [
+                "Apache Kafka",
+                "Apache Flink",
+                "AWS Kinesis"
+            ],
+            "Data Lakes": [
+                "Apache Hudi"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Modelling and Transformation": [
+                "Apache Spark",
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Fig-tech",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ]
+        }
+    },
+    {
+        "name": "Figs",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Flatfile",
+        "tools": {
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "ETL Tools": [
+                "Stitch"
+            ],
+            "Reverse ETL Tools": [
+                "Hightouch"
+            ]
+        }
+    },
+    {
+        "name": "Flawless",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Business Intelligence (BI)": [
+                "Metabase"
+            ]
+        }
+    },
+    {
+        "name": "Flex",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Flipkart",
+        "tools": {
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Data Streaming": [
+                "Apache Kafka",
+                "Apache Flink",
+                "Apache Storm"
+            ],
+            "No code automation": [
+                "Kissflow"
+            ],
+            "Business Intelligence (BI)": [
+                "Power BI",
+                "Tableau"
+            ]
+        }
+    },
+    {
+        "name": "Flixbus",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Qlikview",
+                "Tableau"
+            ],
+            "Data Cataloging": [
+                "Qlikview"
+            ],
+            "ETL Tools": [
+                "Matillion"
+            ],
+            "Data Lakes": [
+                "Azure Cloud Storage",
+                "AWS S3"
+            ]
+        }
+    },
+    {
+        "name": "Flock-freight",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Mode",
+                "Sigma"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Workflow Orchestration": [
+                "Argo"
+            ],
+            "Spreadsheet based BI": [
+                "Sigma"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Flowcode",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ]
+        }
+    },
+    {
+        "name": "Forkbomb",
+        "tools": {
+            "Metrics Store": [
+                "Cube"
+            ],
+            "ETL Tools": [
+                "Airbyte",
+                "Rudderstack"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Event Tracking": [
+                "Rudderstack"
+            ],
+            "Reverse ETL Tools": [
+                "Rudderstack"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Rudderstack"
+            ],
+            "Business Intelligence (BI)": [
+                "Superset"
+            ]
+        }
+    },
+    {
+        "name": "Fox",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "AWS Athena",
+                "Apache Spark"
+            ],
+            "Data Quality Monitoring": [
+                "Monte Carlo Data"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau",
+                "Looker"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "ETL Tools": [
+                "Matillion"
+            ]
+        }
+    },
+    {
+        "name": "Fragment-studio",
+        "tools": {
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Data Lakes": [
+                "Google Cloud Storage"
+            ],
+            "ETL Tools": [
+                "Funnel.io"
+            ],
+            "Business Intelligence (BI)": [
+                "Power BI"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Freshly-cosmetic",
+        "tools": {
+            "ETL Tools": [
+                "Hevo Data"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Fullscript",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Gaia-gps",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Tableau",
+                "Mode"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Gamechanger",
+        "tools": {
+            "Data Streaming": [
+                "Apache Kafka"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Event Tracking": [
+                "Snowplow"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Workspace/ Collaboration": [
+                "Hex"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Getindata",
+        "tools": {
+            "Data Warehouses": [
+                "Databricks",
+                "Snowflake",
+                "Google BigQuery",
+                "Redshift"
+            ],
+            "Data Lakes": [
+                "Databricks",
+                "Google Cloud Storage",
+                "Starburst"
+            ],
+            "ETL Tools": [
+                "Fivetran",
+                "Airbyte"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker",
+                "Tableau"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt",
+                "Apache Spark"
+            ],
+            "Data Streaming": [
+                "Apache Flink",
+                "Apache Kafka",
+                "Google Cloud Dataflow",
+                "Ververica",
+                "Confluent",
+                "AWS Kinesis"
+            ],
+            "Workflow Orchestration": [
+                "Astronomer",
+                "Google Cloud Composer",
+                "Airflow",
+                "Kubeflow",
+                "Argo"
+            ],
+            "Data Discovery": [
+                "Google cloud data catalog & discovery",
+                "Marquez",
+                "Data Hub"
+            ],
+            "Data Quality Monitoring": [
+                "Monte Carlo Data",
+                "Great Expectations"
+            ],
+            "Data Cataloging": [
+                "Marquez",
+                "Data Hub",
+                "Datakin"
+            ],
+            "Change Data Capture": [
+                "Debezium"
+            ],
+            "Data Mesh": [
+                "Starburst"
+            ]
+        }
+    },
+    {
+        "name": "Getsales",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Tableau",
+                "Salesforce Einstein Analytics"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ]
+        }
+    },
+    {
+        "name": "Givedirectly",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Sisense"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "ETL Tools": [
+                "Stitch"
+            ]
+        }
+    },
+    {
+        "name": "Goat",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Business Intelligence (BI)": [
+                "Mode"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Gocanvas",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ]
+        }
+    },
+    {
+        "name": "Good-apple-foods",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Modelling and Transformation": [
+                "Rivery.io"
+            ],
+            "ETL Tools": [
+                "Rivery.io"
+            ],
+            "Workflow Orchestration": [
+                "Rivery.io"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Good-eggs",
+        "tools": {
+            "Workflow Orchestration": [
+                "Dagster"
+            ],
+            "Business Intelligence (BI)": [
+                "Mode"
+            ],
+            "ETL Tools": [
+                "Stitch"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Google",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Tableau",
+                "Sisense",
+                "Looker",
+                "Microstrategy"
+            ],
+            "Feature Store": [
+                "iguazio"
+            ],
+            "Workflow Orchestration": [
+                "Argo"
+            ],
+            "Data Warehouses": [
+                "Databricks",
+                "Redshift"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ],
+            "Data Streaming": [
+                "Apache Storm"
+            ],
+            "Data Cataloging": [
+                "Cloudera"
+            ]
+        }
+    },
+    {
+        "name": "Google-dev-library",
+        "tools": {
+            "Data Lakes": [
+                "Google Cloud Storage"
+            ]
+        }
+    },
+    {
+        "name": "Gopuff",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Looker",
+                "Sigma"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Spreadsheet based BI": [
+                "Sigma"
+            ],
+            "Data Quality Monitoring": [
+                "Spectacles"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Gousto",
+        "tools": {
+            "Data Lakes": [
+                "AWS S3",
+                "Databricks"
+            ],
+            "Data Warehouses": [
+                "Databricks"
+            ]
+        }
+    },
+    {
+        "name": "Grainger",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Groupone",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran",
+                "Meltano"
+            ],
+            "Reverse ETL Tools": [
+                "Hightouch"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ],
+            "Data Quality Monitoring": [
+                "Elementary Data"
+            ]
+        }
+    },
+    {
+        "name": "Growth-talent",
+        "tools": {
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ]
+        }
+    },
+    {
+        "name": "Glean",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ]
+        }
+    },
+    {
+        "name": "Headway",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Reverse ETL Tools": [
+                "Hightouch"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Privacy and Governance": [
+                "Avo"
+            ],
+            "Product Analytics": [
+                "Avo"
+            ]
+        }
+    },
+    {
+        "name": "Health-joy",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ]
+        }
+    },
+    {
+        "name": "Heap",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake",
+                "Google BigQuery",
+                "Redshift"
+            ],
+            "Data Modelling and Transformation": [
+                "Apache Spark"
+            ]
+        }
+    },
+    {
+        "name": "Helpscout",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Reverse ETL Tools": [
+                "Census"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Hex",
+        "tools": {
+            "Data Workspace/ Collaboration": [
+                "Hex"
+            ]
+        }
+    },
+    {
+        "name": "Hometogo",
+        "tools": {
+            "Data Lakes": [
+                "AWS S3",
+                "Delta.io"
+            ],
+            "ETL Tools": [
+                "Airbyte"
+            ],
+            "Data Quality Monitoring": [
+                "Anomalo"
+            ],
+            "Data Cataloging": [
+                "Data Hub",
+                "Qlikview"
+            ],
+            "Data Discovery": [
+                "Data Hub"
+            ],
+            "Event Tracking": [
+                "Snowplow"
+            ],
+            "Business Intelligence (BI)": [
+                "Redash",
+                "Superset",
+                "Qlikview",
+                "Tableau"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "Augmented Analytics": [
+                "Sisu Data"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ]
+        }
+    },
+    {
+        "name": "Hotjar",
+        "tools": {
+            "Product Analytics": [
+                "Mixpanel"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Hubla",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Metabase"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "ETL Tools": [
+                "Airbyte",
+                "Rudderstack"
+            ],
+            "Event Tracking": [
+                "Rudderstack"
+            ],
+            "Reverse ETL Tools": [
+                "Rudderstack"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Rudderstack"
+            ],
+            "Product Analytics": [
+                "Mixpanel"
+            ],
+            "Data Workspace/ Collaboration": [
+                "Hex"
+            ]
+        }
+    },
+    {
+        "name": "Hubspot",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Humanloop",
+        "tools": {
+            "Data Lakes": [
+                "AWS S3"
+            ]
+        }
+    },
+    {
+        "name": "Ifood-decision-sciences",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Inc42",
+        "tools": {
+            "Data Warehouses": [
+                "Google BigQuery"
+            ]
+        }
+    },
+    {
+        "name": "Incidentio",
+        "tools": {
+            "ETL Tools": [
+                "Stitch",
+                "Fivetran"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Business Intelligence (BI)": [
+                "Metabase"
+            ]
+        }
+    },
+    {
+        "name": "Infoprice",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "Apache Spark",
+                "AWS Athena"
+            ],
+            "Business Intelligence (BI)": [
+                "Metabase"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Warehouses": [
+                "Databricks",
+                "Hive"
+            ],
+            "Data Lakes": [
+                "Databricks",
+                "AWS S3"
+            ],
+            "ETL Tools": [
+                "AWS Glue"
+            ],
+            "Data Streaming": [
+                "Apache Kafka"
+            ]
+        }
+    },
+    {
+        "name": "Infuseai",
+        "tools": {
+            "Data Quality Monitoring": [
+                "PipeRider"
+            ]
+        }
+    },
+    {
+        "name": "Inside-track",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ]
+        }
+    },
+    {
+        "name": "Insight-partner",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "ETL Tools": [
+                "Meltano",
+                "Fivetran"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Insight-partners",
+        "tools": {
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "ETL Tools": [
+                "Meltano",
+                "Fivetran"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Instacart",
+        "tools": {
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker",
+                "Tableau"
+            ],
+            "Data Warehouses": [
+                "Snowflake",
+                "Redshift"
+            ],
+            "Data Workspace/ Collaboration": [
+                "PopSQL"
+            ],
+            "Data Mesh": [
+                "Nexla"
+            ],
+            "Reverse ETL Tools": [
+                "Nexla"
+            ],
+            "Data Streaming": [
+                "Apache Kafka"
+            ]
+        }
+    },
+    {
+        "name": "Instagram",
+        "tools": {
+            "Data Lakes": [
+                "Azure Cloud Storage",
+                "AWS S3"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ]
+        }
+    },
+    {
+        "name": "Instamojo",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Reverse ETL Tools": [
+                "Census"
+            ],
+            "Product Analytics": [
+                "Mixpanel"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ]
+        }
+    },
+    {
+        "name": "Insurify",
+        "tools": {
+            "Reverse ETL Tools": [
+                "Hightouch"
+            ],
+            "Business Intelligence (BI)": [
+                "Mode"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "ETL Tools": [
+                "Stitch"
+            ]
+        }
+    },
+    {
+        "name": "Invision",
+        "tools": {
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Business Intelligence (BI)": [
+                "Mode"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Reverse ETL Tools": [
+                "Census"
+            ]
+        }
+    },
+    {
+        "name": "Jebra",
+        "tools": {
+            "Data Lakes": [
+                "Google Cloud Storage",
+                "AWS S3"
+            ]
+        }
+    },
+    {
+        "name": "Jetty",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ]
+        }
+    },
+    {
+        "name": "Jman-group",
+        "tools": {
+            "Data Warehouses": [
+                "Azure Synapse Analytics",
+                "Databricks",
+                "Snowflake",
+                "Redshift",
+                "Google BigQuery"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "ETL Tools": [
+                "Fivetran",
+                "Stitch",
+                "Airbyte",
+                "Matillion",
+                "Azure data factory",
+                "AWS Glue"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau",
+                "Power BI",
+                "Looker",
+                "Superset"
+            ],
+            "Workflow Orchestration": [
+                "Airflow",
+                "Google Cloud Composer"
+            ],
+            "Data Cataloging": [
+                "Alteryx"
+            ],
+            "Data Discovery": [
+                "Alteryx"
+            ],
+            "Data Streaming": [
+                "Apache Kafka"
+            ]
+        }
+    },
+    {
+        "name": "Jobber",
+        "tools": {
+            "Metrics Store": [
+                "Cube"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ]
+        }
+    },
+    {
+        "name": "Jodel",
+        "tools": {
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Business Intelligence (BI)": [
+                "Metabase"
+            ],
+            "ETL Tools": [
+                "AWS Glue"
+            ],
+            "Workflow Orchestration": [
+                "Apache Luigi"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "Data Modelling and Transformation": [
+                "AWS Athena"
+            ],
+            "Data Streaming": [
+                "AWS Kinesis"
+            ]
+        }
+    },
+    {
+        "name": "Juice-analytics",
+        "tools": {
+            "Data Warehouses": [
+                "Redshift"
+            ]
+        }
+    },
+    {
+        "name": "Justos",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt",
+                "AWS Athena"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "Workflow Orchestration": [
+                "Airflow",
+                "Astronomer"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "ETL Tools": [
+                "Funnel.io"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Feature Store": [
+                "Feast"
+            ],
+            "Data Apps": [
+                "Streamlit"
+            ],
+            "Data Quality Monitoring": [
+                "Great Expectations"
+            ]
+        }
+    },
+    {
+        "name": "K-health",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ]
+        }
+    },
+    {
+        "name": "Keboola",
+        "tools": {
+            "Data Workspace/ Collaboration": [
+                "Keboola"
+            ],
+            "Managed Data Stack": [
+                "Keboola"
+            ]
+        }
+    },
+    {
+        "name": "Keyrus",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ],
+            "Data Modelling and Transformation": [
+                "Rivery.io",
+                "dbt"
+            ],
+            "ETL Tools": [
+                "Rivery.io",
+                "Talend"
+            ],
+            "Workflow Orchestration": [
+                "Rivery.io"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Cataloging": [
+                "Alteryx"
+            ],
+            "Data Discovery": [
+                "Alteryx"
+            ],
+            "Data Privacy and Governance": [
+                "Talend"
+            ]
+        }
+    },
+    {
+        "name": "Knotch",
+        "tools": {
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "Data Modelling and Transformation": [
+                "Apache Spark"
+            ]
+        }
+    },
+    {
+        "name": "Knowi",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "AWS Athena"
+            ],
+            "Data Streaming": [
+                "AWS Kinesis"
+            ]
+        }
+    },
+    {
+        "name": "Krisp",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ]
+        }
+    },
+    {
+        "name": "Kyligence",
+        "tools": {
+            "Data Warehouses": [
+                "Hive"
+            ],
+            "Data Modelling and Transformation": [
+                "Apache Spark"
+            ],
+            "Data Lakes": [
+                "AWS S3",
+                "Azure Cloud Storage"
+            ]
+        }
+    },
+    {
+        "name": "Loreal",
+        "tools": {
+            "Data Warehouses": [
+                "Databricks",
+                "Google BigQuery",
+                "Snowflake"
+            ],
+            "Data Lakes": [
+                "Databricks",
+                "Google Cloud Storage",
+                "Azure Cloud Storage"
+            ],
+            "Data Streaming": [
+                "Google Cloud Dataflow",
+                "Apache Kafka",
+                "Confluent"
+            ],
+            "Workflow Orchestration": [
+                "Google Cloud Composer",
+                "Kubeflow",
+                "Airflow"
+            ],
+            "Data Cataloging": [
+                "Collibra",
+                "Google Data Catalog",
+                "informatica"
+            ],
+            "Data Discovery": [
+                "Collibra",
+                "Google cloud data catalog & discovery"
+            ],
+            "Data Privacy and Governance": [
+                "Collibra"
+            ],
+            "Business Intelligence (BI)": [
+                "Power BI",
+                "Looker",
+                "Domo"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt",
+                "Apache Spark",
+                "Dataform"
+            ],
+            "ETL Tools": [
+                "Azure data factory",
+                "informatica"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Tealium"
+            ],
+            "Data Quality Monitoring": [
+                "Great Expectations"
+            ],
+            "Metrics Store": [
+                "Transform Data"
+            ]
+        }
+    },
+    {
+        "name": "Lacework",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Workspace/ Collaboration": [
+                "Hex"
+            ],
+            "Reverse ETL Tools": [
+                "Hightouch"
+            ],
+            "Augmented Analytics": [
+                "ThoughtSpot"
+            ]
+        }
+    },
+    {
+        "name": "Landbot",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt",
+                "Apache Spark"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Workflow Orchestration": [
+                "Airflow",
+                "Google Cloud Composer"
+            ],
+            "Reverse ETL Tools": [
+                "Census"
+            ],
+            "ETL Tools": [
+                "Airbyte"
+            ],
+            "Data Lakes": [
+                "Google Cloud Storage"
+            ]
+        }
+    },
+    {
+        "name": "Lane",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ]
+        }
+    },
+    {
+        "name": "Latitude",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "ETL Tools": [
+                "Airbyte"
+            ]
+        }
+    },
+    {
+        "name": "Launchdarkly",
+        "tools": {
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Ldcc-lotte-data-communication-company",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Streaming": [
+                "AWS Kinesis"
+            ],
+            "Data Warehouses": [
+                "Databricks"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ]
+        }
+    },
+    {
+        "name": "Legoai-technologies",
+        "tools": {
+            "Spreadsheet based BI": [
+                "Rows.com"
+            ],
+            "Data Warehouses": [
+                "Databricks"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ]
+        }
+    },
+    {
+        "name": "Linkedin",
+        "tools": {
+            "Data Warehouses": [
+                "Tera data",
+                "Oracle"
+            ],
+            "Data Streaming": [
+                "Apache Kafka"
+            ],
+            "Data Lakes": [
+                "Azure Cloud Storage",
+                "AWS S3"
+            ],
+            "Business Intelligence (BI)": [
+                "Microstrategy"
+            ],
+            "Data Cataloging": [
+                "Data Hub",
+                "informatica"
+            ],
+            "Data Discovery": [
+                "Data Hub"
+            ],
+            "ETL Tools": [
+                "informatica"
+            ]
+        }
+    },
+    {
+        "name": "Litech",
+        "tools": {
+            "Data Warehouses": [
+                "Vertica",
+                "Snowflake",
+                "Google BigQuery",
+                "SAP business warehouse"
+            ]
+        }
+    },
+    {
+        "name": "Livestorm",
+        "tools": {
+            "ETL Tools": [
+                "Stitch",
+                "Fivetran"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ]
+        }
+    },
+    {
+        "name": "Lodgify",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Tableau",
+                "Metabase"
+            ],
+            "Event Tracking": [
+                "Rudderstack"
+            ],
+            "Reverse ETL Tools": [
+                "Rudderstack",
+                "Hightouch"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Rudderstack"
+            ],
+            "ETL Tools": [
+                "Rudderstack",
+                "Fivetran"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Loft",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt",
+                "AWS Athena"
+            ],
+            "Data Quality Monitoring": [
+                "Spectacles"
+            ],
+            "Data Lakes": [
+                "AWS S3",
+                "Databricks"
+            ],
+            "ETL Tools": [
+                "Stitch"
+            ],
+            "Data Warehouses": [
+                "Databricks"
+            ]
+        }
+    },
+    {
+        "name": "Logiqai",
+        "tools": {
+            "Data Warehouses": [
+                "Databricks"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ]
+        }
+    },
+    {
+        "name": "Lola",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ]
+        }
+    },
+    {
+        "name": "Loop-returns",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran",
+                "Meltano"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Discovery": [
+                "Secoda"
+            ],
+            "Data Cataloging": [
+                "Secoda"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Quality Monitoring": [
+                "Spectacles",
+                "Monte Carlo Data"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Data Workspace/ Collaboration": [
+                "Hex"
+            ]
+        }
+    },
+    {
+        "name": "Lotum",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Workflow Orchestration": [
+                "Google Cloud Composer",
+                "Airflow"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ]
+        }
+    },
+    {
+        "name": "Lucid",
+        "tools": {
+            "Data Warehouses": [
+                "Databricks",
+                "Snowflake"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Lunar-ventures",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Workflow Orchestration": [
+                "Dagster"
+            ],
+            "ETL Tools": [
+                "Fivetran",
+                "Airbyte"
+            ],
+            "Data Workspace/ Collaboration": [
+                "Hex"
+            ],
+            "Reverse ETL Tools": [
+                "Census"
+            ],
+            "Metrics Store": [
+                "Lightdash"
+            ],
+            "Business Intelligence (BI)": [
+                "Lightdash"
+            ]
+        }
+    },
+    {
+        "name": "Lyft",
+        "tools": {
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Data Streaming": [
+                "Apache Kafka",
+                "Confluent",
+                "AWS Kinesis"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Cataloging": [
+                "Stemma AI",
+                "Amundsen"
+            ],
+            "Data Discovery": [
+                "Stemma AI",
+                "Amundsen"
+            ],
+            "Business Intelligence (BI)": [
+                "Mode"
+            ]
+        }
+    },
+    {
+        "name": "Lyska",
+        "tools": {
+            "Data Streaming": [
+                "Apache Kafka"
+            ],
+            "Data Lakes": [
+                "Google Cloud Storage"
+            ],
+            "Change Data Capture": [
+                "Debezium"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ]
+        }
+    },
+    {
+        "name": "Madison-reed",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ]
+        }
+    },
+    {
+        "name": "Mage",
+        "tools": {
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt",
+                "Apache Spark"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery",
+                "Redshift",
+                "Snowflake"
+            ],
+            "ETL Tools": [
+                "Singer"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Reverse ETL Tools": [
+                "Hightouch"
+            ]
+        }
+    },
+    {
+        "name": "Maisonette",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Mantra-health",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Managed Data Stack": [
+                "Mozart Data"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Manypets",
+        "tools": {
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Power BI"
+            ],
+            "ETL Tools": [
+                "Fivetran",
+                "Meltano"
+            ],
+            "Reverse ETL Tools": [
+                "Hightouch"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ]
+        }
+    },
+    {
+        "name": "Maple",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake",
+                "Redshift"
+            ]
+        }
+    },
+    {
+        "name": "Masterplan",
+        "tools": {
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ]
+        }
+    },
+    {
+        "name": "Matillion",
+        "tools": {
+            "ETL Tools": [
+                "Matillion"
+            ],
+            "Data Warehouses": [
+                "Redshift",
+                "Snowflake",
+                "Databricks"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau",
+                "Sigma"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ],
+            "Augmented Analytics": [
+                "ThoughtSpot"
+            ],
+            "Spreadsheet based BI": [
+                "Sigma"
+            ]
+        }
+    },
+    {
+        "name": "Mattermost",
+        "tools": {
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Warehouses": [
+                "Redshift",
+                "Snowflake"
+            ],
+            "ETL Tools": [
+                "Stitch",
+                "Rudderstack"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Event Tracking": [
+                "Rudderstack"
+            ],
+            "Reverse ETL Tools": [
+                "Rudderstack"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Rudderstack"
+            ]
+        }
+    },
+    {
+        "name": "Mccormick-bi-llc",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Sigma"
+            ],
+            "Spreadsheet based BI": [
+                "Sigma"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Medically-home",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "ETL Tools": [
+                "Meltano"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ]
+        }
+    },
+    {
+        "name": "Mejuri",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "ETL Tools": [
+                "Airbyte"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Workflow Orchestration": [
+                "Dagster"
+            ]
+        }
+    },
+    {
+        "name": "Memphisdev",
+        "tools": {
+            "Workflow Orchestration": [
+                "Astronomer"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ]
+        }
+    },
+    {
+        "name": "Metarouter",
+        "tools": {
+            "Data Streaming": [
+                "Apache Kafka"
+            ]
+        }
+    },
+    {
+        "name": "Microsoft",
+        "tools": {
+            "Data Warehouses": [
+                "Databricks",
+                "Oracle"
+            ],
+            "Data Lakes": [
+                "Databricks",
+                "Azure Cloud Storage"
+            ],
+            "Business Intelligence (BI)": [
+                "Microstrategy",
+                "Looker"
+            ],
+            "Synthetic Data": [
+                "edge case",
+                "Hazy"
+            ],
+            "Data Cataloging": [
+                "Cloudera",
+                "Alteryx"
+            ],
+            "Feature Store": [
+                "iguazio"
+            ],
+            "ETL Tools": [
+                "Talend"
+            ],
+            "Data Privacy and Governance": [
+                "Talend"
+            ],
+            "Data Discovery": [
+                "Alteryx"
+            ]
+        }
+    },
+    {
+        "name": "Mighty-canary",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ]
+        }
+    },
+    {
+        "name": "Mighty-digital",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "ETL Tools": [
+                "Hevo Data",
+                "Fivetran",
+                "Singer",
+                "Stitch",
+                "AWS Glue",
+                "Meltano",
+                "Rudderstack"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment",
+                "mparticle",
+                "Rudderstack"
+            ],
+            "Event Tracking": [
+                "Segment",
+                "Rudderstack"
+            ],
+            "Data Lakes": [
+                "Google Cloud Storage",
+                "AWS S3"
+            ],
+            "Data Warehouses": [
+                "Redshift",
+                "Firebolt",
+                "Google BigQuery"
+            ],
+            "Business Intelligence (BI)": [
+                "Redash",
+                "Looker"
+            ],
+            "Data Streaming": [
+                "AWS Kinesis"
+            ],
+            "Reverse ETL Tools": [
+                "Rudderstack",
+                "Hightouch"
+            ]
+        }
+    },
+    {
+        "name": "Mindfi",
+        "tools": {
+            "ETL Tools": [
+                "Airbyte"
+            ],
+            "Business Intelligence (BI)": [
+                "Superset"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Streaming": [
+                "AWS Kinesis"
+            ],
+            "Metrics Store": [
+                "Cube"
+            ],
+            "Event Tracking": [
+                "Snowplow"
+            ]
+        }
+    },
+    {
+        "name": "Moderna",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ]
+        }
+    },
+    {
+        "name": "Montreal-analytics",
+        "tools": {
+            "Data Warehouses": [
+                "Google BigQuery",
+                "Snowflake"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Reverse ETL Tools": [
+                "Hightouch"
+            ]
+        }
+    },
+    {
+        "name": "Monzo",
+        "tools": {
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ]
+        }
+    },
+    {
+        "name": "Nashtech-global",
+        "tools": {
+            "Data Warehouses": [
+                "Databricks"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Streaming": [
+                "AWS Kinesis"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ]
+        }
+    },
+    {
+        "name": "Neon",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran"
+            ]
+        }
+    },
+    {
+        "name": "Netflix",
+        "tools": {
+            "Data Streaming": [
+                "Apache Kafka",
+                "AWS Kinesis"
+            ],
+            "Data Warehouses": [
+                "Tera data",
+                "Oracle"
+            ],
+            "Business Intelligence (BI)": [
+                "Microstrategy",
+                "Tableau"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ]
+        }
+    },
+    {
+        "name": "Netlify",
+        "tools": {
+            "Reverse ETL Tools": [
+                "Census"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Metrics Store": [
+                "Transform Data"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Business Intelligence (BI)": [
+                "Mode"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ]
+        }
+    },
+    {
+        "name": "Neuroflow",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Metabase"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ]
+        }
+    },
+    {
+        "name": "Noteable",
+        "tools": {
+            "Data Workspace/ Collaboration": [
+                "Noteable"
+            ]
+        }
+    },
+    {
+        "name": "Ntico",
+        "tools": {
+            "Workflow Orchestration": [
+                "Kestra"
+            ]
+        }
+    },
+    {
+        "name": "Onefootball",
+        "tools": {
+            "Data Streaming": [
+                "AWS Kinesis"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "ETL Tools": [
+                "Stitch",
+                "AWS Glue"
+            ],
+            "Business Intelligence (BI)": [
+                "Metabase"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Event Tracking": [
+                "Snowplow"
+            ]
+        }
+    },
+    {
+        "name": "Onefootball-labs",
+        "tools": {
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Superset"
+            ],
+            "ETL Tools": [
+                "Airbyte"
+            ]
+        }
+    },
+    {
+        "name": "Optimus-mine-ltd",
+        "tools": {
+            "Data Warehouses": [
+                "Google BigQuery"
+            ]
+        }
+    },
+    {
+        "name": "Osmos",
+        "tools": {
+            "Data Warehouses": [
+                "Google BigQuery"
+            ]
+        }
+    },
+    {
+        "name": "Ostro",
+        "tools": {
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Metabase"
+            ],
+            "Product Analytics": [
+                "PostHog"
+            ],
+            "Data Quality Monitoring": [
+                "Elementary Data"
+            ]
+        }
+    },
+    {
+        "name": "Outdoor-voices",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "ETL Tools": [
+                "Stitch"
+            ]
+        }
+    },
+    {
+        "name": "Outreach",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ]
+        }
+    },
+    {
+        "name": "Pachyderm",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran",
+                "Stitch",
+                "Rudderstack"
+            ],
+            "Business Intelligence (BI)": [
+                "Sigma"
+            ],
+            "Spreadsheet based BI": [
+                "Sigma"
+            ],
+            "Event Tracking": [
+                "Rudderstack"
+            ],
+            "Reverse ETL Tools": [
+                "Rudderstack"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Rudderstack"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ]
+        }
+    },
+    {
+        "name": "Panasonic",
+        "tools": {
+            "ETL Tools": [
+                "Stitch"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Discovery": [
+                "Secoda"
+            ],
+            "Data Cataloging": [
+                "Secoda"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Paypal",
+        "tools": {
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Business Intelligence (BI)": [
+                "Microstrategy",
+                "Looker",
+                "Qlikview",
+                "Tableau",
+                "y42"
+            ],
+            "Data Discovery": [
+                "Alation",
+                "Alteryx"
+            ],
+            "Data Cataloging": [
+                "Alation",
+                "Qlikview",
+                "Google Data Catalog",
+                "Alteryx"
+            ],
+            "Data Lakes": [
+                "Google Cloud Storage",
+                "Min.io"
+            ],
+            "Workflow Orchestration": [
+                "Airflow",
+                "Kubeflow",
+                "Google Cloud Composer"
+            ],
+            "Data Warehouses": [
+                "Tera data"
+            ],
+            "Managed Data Stack": [
+                "y42"
+            ],
+            "Data Streaming": [
+                "Google Cloud Dataflow"
+            ]
+        }
+    },
+    {
+        "name": "Photobox",
+        "tools": {
+            "Data Quality Monitoring": [
+                "Great Expectations"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Pingcap",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt",
+                "Apache Spark"
+            ],
+            "Business Intelligence (BI)": [
+                "Metabase",
+                "Looker",
+                "Tableau"
+            ],
+            "Data Warehouses": [
+                "Databricks"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ],
+            "ETL Tools": [
+                "Airbyte"
+            ],
+            "Data Streaming": [
+                "Apache Kafka",
+                "Apache Flink"
+            ]
+        }
+    },
+    {
+        "name": "Pinterest",
+        "tools": {
+            "Data Lakes": [
+                "AWS S3",
+                "Qubole"
+            ],
+            "Data Streaming": [
+                "Apache Storm",
+                "Apache Kafka"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ]
+        }
+    },
+    {
+        "name": "Pitch",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Metabase"
+            ],
+            "Reverse ETL Tools": [
+                "Census",
+                "Hightouch"
+            ],
+            "Event Tracking": [
+                "Snowplow"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Pluralsight",
+        "tools": {
+            "Data Streaming": [
+                "Apache Kafka",
+                "Apache Flink"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt",
+                "Apache Spark"
+            ],
+            "Data Warehouses": [
+                "Snowflake",
+                "Databricks"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ]
+        }
+    },
+    {
+        "name": "Podkite",
+        "tools": {
+            "Data Streaming": [
+                "AWS Kinesis"
+            ],
+            "Data Lakes": [
+                "AWS S3",
+                "Google Cloud Storage"
+            ],
+            "Metrics Store": [
+                "Cube"
+            ]
+        }
+    },
+    {
+        "name": "Pollen",
+        "tools": {
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker",
+                "Tableau"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "ETL Tools": [
+                "Fivetran",
+                "Stitch"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Popsink",
+        "tools": {
+            "ETL Tools": [
+                "Popsink"
+            ],
+            "Data Streaming": [
+                "Popsink",
+                "Apache Flink",
+                "Redpanda"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Change Data Capture": [
+                "Debezium"
+            ]
+        }
+    },
+    {
+        "name": "Postman",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Looker",
+                "Power BI"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Discovery": [
+                "Atlan"
+            ],
+            "Data Cataloging": [
+                "Atlan"
+            ],
+            "ETL Tools": [
+                "Stitch"
+            ]
+        }
+    },
+    {
+        "name": "Postscript",
+        "tools": {
+            "ETL Tools": [
+                "Stitch",
+                "Fivetran"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ]
+        }
+    },
+    {
+        "name": "Proglove",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Proposify",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Mode"
+            ],
+            "Data Modelling and Transformation": [
+                "Dataform"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "Product Analytics": [
+                "Heap"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment",
+                "Rudderstack"
+            ],
+            "Event Tracking": [
+                "Segment",
+                "Rudderstack"
+            ],
+            "Reverse ETL Tools": [
+                "Rudderstack"
+            ],
+            "ETL Tools": [
+                "Rudderstack",
+                "Stitch"
+            ]
+        }
+    },
+    {
+        "name": "Quanto",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt",
+                "Apache Spark"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Data Lakes": [
+                "Google Cloud Storage"
+            ]
+        }
+    },
+    {
+        "name": "Quicktable",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Quintoandar",
+        "tools": {
+            "Data Warehouses": [
+                "Hive",
+                "Databricks"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Lakes": [
+                "AWS S3",
+                "Databricks"
+            ],
+            "Data Cataloging": [
+                "Apache Atlas"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Streaming": [
+                "Apache Kafka"
+            ]
+        }
+    },
+    {
+        "name": "Qurisai",
+        "tools": {
+            "Data Lakes": [
+                "Google Cloud Storage"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ]
+        }
+    },
+    {
+        "name": "Rack-room-shoes",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake",
+                "Oracle"
+            ],
+            "Business Intelligence (BI)": [
+                "Salesforce Einstein Analytics",
+                "Microstrategy"
+            ],
+            "ETL Tools": [
+                "Matillion"
+            ],
+            "Data Cataloging": [
+                "Alteryx"
+            ],
+            "Data Discovery": [
+                "Alteryx"
+            ]
+        }
+    },
+    {
+        "name": "Realself",
+        "tools": {
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "ETL Tools": [
+                "Stitch"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Reconfigured",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Reforge",
+        "tools": {
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Metabase"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ]
+        }
+    },
+    {
+        "name": "Renaissance",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Rent-the-runway",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Workflow Orchestration": [
+                "Prefect"
+            ],
+            "Data Quality Monitoring": [
+                "Great Expectations"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Rhino",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake",
+                "Databricks"
+            ],
+            "ETL Tools": [
+                "Fivetran",
+                "Airbyte"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Rhombic",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Augmented Analytics": [
+                "ThoughtSpot"
+            ],
+            "Data Cataloging": [
+                "Alteryx"
+            ],
+            "Data Discovery": [
+                "Alteryx"
+            ],
+            "Data Workspace/ Collaboration": [
+                "Keboola"
+            ],
+            "Managed Data Stack": [
+                "Keboola"
+            ]
+        }
+    },
+    {
+        "name": "Ritual",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake",
+                "Databricks"
+            ],
+            "ETL Tools": [
+                "Fivetran",
+                "Indicative"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Product Analytics": [
+                "Indicative"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ]
+        }
+    },
+    {
+        "name": "Rivery",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "Rivery.io"
+            ],
+            "ETL Tools": [
+                "Rivery.io"
+            ],
+            "Workflow Orchestration": [
+                "Rivery.io"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ]
+        }
+    },
+    {
+        "name": "Rockset",
+        "tools": {
+            "Reverse ETL Tools": [
+                "Hightouch"
+            ]
+        }
+    },
+    {
+        "name": "Ruby-labs",
+        "tools": {
+            "Feature Store": [
+                "Continual"
+            ],
+            "Data Privacy and Governance": [
+                "Avo"
+            ],
+            "Product Analytics": [
+                "Avo"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Data Workspace/ Collaboration": [
+                "Hex"
+            ],
+            "Workflow Orchestration": [
+                "Airflow",
+                "Google Cloud Composer"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Metrics Store": [
+                "Lightdash"
+            ],
+            "Business Intelligence (BI)": [
+                "Lightdash"
+            ]
+        }
+    },
+    {
+        "name": "Rush-street-interactive",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Saks-fifth-avenue",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Samsung",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Qlikview"
+            ],
+            "Data Cataloging": [
+                "Qlikview"
+            ],
+            "Augmented Analytics": [
+                "Sisu Data"
+            ],
+            "ETL Tools": [
+                "Funnel.io",
+                "Supermetrics"
+            ],
+            "Feature Store": [
+                "Molecula",
+                "iguazio"
+            ]
+        }
+    },
+    {
+        "name": "Save-the-byte",
+        "tools": {
+            "Managed Data Stack": [
+                "DoubleCloud"
+            ]
+        }
+    },
+    {
+        "name": "Saydata",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Secoda",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Looker",
+                "Mode"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Seektable",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Selectdb",
+        "tools": {
+            "Data Lakes": [
+                "AWS S3",
+                "Apache Hudi"
+            ],
+            "Data Streaming": [
+                "Apache Flink"
+            ],
+            "Data Modelling and Transformation": [
+                "Apache Spark"
+            ]
+        }
+    },
+    {
+        "name": "Selfr",
+        "tools": {
+            "Managed Data Stack": [
+                "Selfr"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Reverse ETL Tools": [
+                "Hightouch"
+            ]
+        }
+    },
+    {
+        "name": "Sellerx",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ]
+        }
+    },
+    {
+        "name": "Sensor-data",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Redash"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Sevdesk",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker",
+                "Metabase"
+            ],
+            "ETL Tools": [
+                "Stitch",
+                "Singer"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "Reverse ETL Tools": [
+                "Hightouch"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Product Analytics": [
+                "Mixpanel"
+            ]
+        }
+    },
+    {
+        "name": "Sherloq",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Mode"
+            ]
+        }
+    },
+    {
+        "name": "Shopify",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Looker",
+                "y42",
+                "Qlikview"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Data Warehouses": [
+                "Redshift",
+                "Vertica"
+            ],
+            "Data Quality Monitoring": [
+                "Anomalo"
+            ],
+            "Managed Data Stack": [
+                "y42"
+            ],
+            "Data Cataloging": [
+                "Alteryx",
+                "Qlikview"
+            ],
+            "Data Discovery": [
+                "Alteryx"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Shuddl",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Warehouses": [
+                "Databricks"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ],
+            "Spreadsheet based BI": [
+                "Rows.com"
+            ],
+            "Augmented Analytics": [
+                "Sisu Data"
+            ],
+            "PLG CRM": [
+                "Variance"
+            ],
+            "Operational Analytics ": [
+                "Variance",
+                "Netspring"
+            ],
+            "Data Cataloging": [
+                "data.world "
+            ],
+            "Synthetic Data": [
+                "Datomize"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ]
+        }
+    },
+    {
+        "name": "Simply-business",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Streaming": [
+                "Apache Kafka"
+            ]
+        }
+    },
+    {
+        "name": "Singularity-data",
+        "tools": {
+            "Data Lakes": [
+                "AWS S3"
+            ]
+        }
+    },
+    {
+        "name": "Skims",
+        "tools": {
+            "Reverse ETL Tools": [
+                "Census"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Skypoint-cloud",
+        "tools": {
+            "Data Warehouses": [
+                "Databricks"
+            ],
+            "Data Lakes": [
+                "Databricks",
+                "Azure Cloud Storage"
+            ],
+            "Data Modelling and Transformation": [
+                "Apache Spark"
+            ],
+            "Business Intelligence (BI)": [
+                "Power BI"
+            ],
+            "ETL Tools": [
+                "Azure data factory"
+            ]
+        }
+    },
+    {
+        "name": "Slack",
+        "tools": {
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Streaming": [
+                "Apache Kafka"
+            ]
+        }
+    },
+    {
+        "name": "Smile-direct-club",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ]
+        }
+    },
+    {
+        "name": "Smileeio",
+        "tools": {
+            "Metrics Store": [
+                "Cube"
+            ]
+        }
+    },
+    {
+        "name": "South-china-morning-post",
+        "tools": {
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ],
+            "Metrics Store": [
+                "Cube"
+            ]
+        }
+    },
+    {
+        "name": "Spin",
+        "tools": {
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Spotify",
+        "tools": {
+            "Workflow Orchestration": [
+                "Kubeflow",
+                "Google Cloud Composer"
+            ],
+            "Data Streaming": [
+                "Apache Storm",
+                "Apache Kafka",
+                "Google Cloud Dataflow"
+            ],
+            "Feature Store": [
+                "Molecula"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau",
+                "Salesforce Einstein Analytics"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Customer Data Platform(CDP)": [
+                "mparticle",
+                "Segment"
+            ],
+            "Data Cataloging": [
+                "Google Data Catalog"
+            ],
+            "No code automation": [
+                "Integromat"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Augmented Analytics": [
+                "Tellius"
+            ]
+        }
+    },
+    {
+        "name": "Springworks-therapeutics",
+        "tools": {
+            "Data Quality Monitoring": [
+                "ClueDin"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Business Intelligence (BI)": [
+                "Power BI"
+            ]
+        }
+    },
+    {
+        "name": "Stack-tecnologias",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt",
+                "AWS Athena"
+            ],
+            "Data Warehouses": [
+                "Databricks"
+            ],
+            "Data Lakes": [
+                "Databricks",
+                "AWS S3"
+            ],
+            "Data Streaming": [
+                "AWS Kinesis"
+            ],
+            "ETL Tools": [
+                "AWS Glue",
+                "Airbyte"
+            ]
+        }
+    },
+    {
+        "name": "Stackable",
+        "tools": {
+            "Data Streaming": [
+                "Apache Kafka"
+            ],
+            "Workflow Orchestration": [
+                "Airflow",
+                "Apache Nifi"
+            ],
+            "Business Intelligence (BI)": [
+                "Superset"
+            ],
+            "Data Modelling and Transformation": [
+                "Apache Spark"
+            ],
+            "Data Warehouses": [
+                "Hive"
+            ]
+        }
+    },
+    {
+        "name": "Stonly",
+        "tools": {
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Workspace/ Collaboration": [
+                "Hex"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Product Analytics": [
+                "PostHog"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "Reverse ETL Tools": [
+                "Hightouch"
+            ]
+        }
+    },
+    {
+        "name": "Streamnative",
+        "tools": {
+            "Data Streaming": [
+                "Apache Flink"
+            ],
+            "Data Modelling and Transformation": [
+                "Apache Spark"
+            ]
+        }
+    },
+    {
+        "name": "Stride",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Tableau",
+                "Superset",
+                "Sisense",
+                "Looker"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ]
+        }
+    },
+    {
+        "name": "Striim",
+        "tools": {
+            "Data Warehouses": [
+                "Redshift",
+                "Snowflake",
+                "Google BigQuery"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ]
+        }
+    },
+    {
+        "name": "Stripe",
+        "tools": {
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker",
+                "Tableau"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "Data Streaming": [
+                "Apache Flink"
+            ]
+        }
+    },
+    {
+        "name": "Sub-zero-group-inc",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake",
+                "Databricks"
+            ],
+            "ETL Tools": [
+                "Fivetran",
+                "Azure data factory"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Power BI"
+            ],
+            "Data Quality Monitoring": [
+                "Monte Carlo Data"
+            ],
+            "Data Discovery": [
+                "Metaphor"
+            ],
+            "Data Cataloging": [
+                "Metaphor"
+            ],
+            "Data Lakes": [
+                "Azure Cloud Storage",
+                "Databricks"
+            ]
+        }
+    },
+    {
+        "name": "Supergrain",
+        "tools": {
+            "Customer Data Platform(CDP)": [
+                "Supergrain"
+            ]
+        }
+    },
+    {
+        "name": "Swiggy",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Power BI",
+                "Tableau",
+                "Qlikview"
+            ],
+            "Data Streaming": [
+                "Apache Kafka"
+            ],
+            "Data Cataloging": [
+                "Qlikview",
+                "Alation"
+            ],
+            "Data Warehouses": [
+                "Redshift",
+                "Snowflake",
+                "Vertica"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Data Discovery": [
+                "Alation"
+            ]
+        }
+    },
+    {
+        "name": "Swile",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker",
+                "Metabase",
+                "Superset"
+            ],
+            "Reverse ETL Tools": [
+                "Hightouch"
+            ],
+            "Data Quality Monitoring": [
+                "Monte Carlo Data"
+            ],
+            "ETL Tools": [
+                "Stitch",
+                "Fivetran"
+            ],
+            "Data Discovery": [
+                "Castor"
+            ],
+            "Data Privacy and Governance": [
+                "Castor"
+            ],
+            "Data Cataloging": [
+                "Castor"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Streaming": [
+                "Apache Kafka"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ]
+        }
+    },
+    {
+        "name": "Tabula",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ]
+        }
+    },
+    {
+        "name": "Terality",
+        "tools": {
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Modelling and Transformation": [
+                "Apache Spark"
+            ]
+        }
+    },
+    {
+        "name": "Thinking-machines-data-science",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake",
+                "Google BigQuery",
+                "Databricks"
+            ],
+            "Workflow Orchestration": [
+                "Dagster",
+                "Airflow"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker",
+                "Tableau"
+            ],
+            "ETL Tools": [
+                "StreamSets",
+                "Fivetran"
+            ],
+            "Data Streaming": [
+                "StreamSets",
+                "Apache Kafka"
+            ],
+            "Data Apps": [
+                "Streamlit"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ]
+        }
+    },
+    {
+        "name": "Thoughtspot",
+        "tools": {
+            "Augmented Analytics": [
+                "ThoughtSpot"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Thoughtspot-inc",
+        "tools": {
+            "Augmented Analytics": [
+                "ThoughtSpot"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Threeflow",
+        "tools": {
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "ETL Tools": [
+                "Stitch"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Thrift-books",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Business Intelligence (BI)": [
+                "Power BI",
+                "Mode"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Thrive",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran",
+                "Meltano",
+                "Stitch"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Workflow Orchestration": [
+                "Argo"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ]
+        }
+    },
+    {
+        "name": "Timeplus",
+        "tools": {
+            "Data Streaming": [
+                "Apache Kafka",
+                "StreamNative",
+                "Redpanda",
+                "Confluent"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "ETL Tools": [
+                "Airbyte",
+                "Meltano"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Mode"
+            ],
+            "Data Workspace/ Collaboration": [
+                "Hyperquery"
+            ]
+        }
+    },
+    {
+        "name": "Togo-group",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker",
+                "Tableau"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Privacy and Governance": [
+                "Avo"
+            ],
+            "Product Analytics": [
+                "Avo"
+            ]
+        }
+    },
+    {
+        "name": "Too-good-to-go",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "ETL Tools": [
+                "Airbyte"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ]
+        }
+    },
+    {
+        "name": "Trackingplan",
+        "tools": {
+            "Operational Analytics ": [
+                "Trackingplan"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Product Analytics": [
+                "June"
+            ],
+            "Business Intelligence (BI)": [
+                "Graphext"
+            ],
+            "Augmented Analytics": [
+                "Graphext"
+            ],
+            "Data Streaming": [
+                "AWS Kinesis"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ]
+        }
+    },
+    {
+        "name": "Trip-actions",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Holistics.io",
+                "Tableau"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Trovatrip",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Sigma"
+            ],
+            "Spreadsheet based BI": [
+                "Sigma"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Product Analytics": [
+                "PostHog"
+            ]
+        }
+    },
+    {
+        "name": "Truebill",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ]
+        }
+    },
+    {
+        "name": "Tula-skincare",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ]
+        }
+    },
+    {
+        "name": "Turntide",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ]
+        }
+    },
+    {
+        "name": "Twilio",
+        "tools": {
+            "Data Streaming": [
+                "Apache Kafka"
+            ],
+            "Workflow Orchestration": [
+                "Airflow",
+                "Apache Luigi"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "Data Modelling and Transformation": [
+                "Apache Spark"
+            ]
+        }
+    },
+    {
+        "name": "Twinco-capital",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker",
+                "Sigma"
+            ],
+            "ETL Tools": [
+                "Hevo Data"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Data Lakes": [
+                "Google Cloud Storage",
+                "AWS S3"
+            ],
+            "Spreadsheet based BI": [
+                "Sigma"
+            ]
+        }
+    },
+    {
+        "name": "Typeform",
+        "tools": {
+            "Data Warehouses": [
+                "Google BigQuery",
+                "Redshift",
+                "Snowflake"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Uber",
+        "tools": {
+            "Data Warehouses": [
+                "Databricks"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ],
+            "Data Cataloging": [
+                "Cloudera"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau",
+                "Looker"
+            ],
+            "Data Streaming": [
+                "Apache Kafka",
+                "Apache Storm"
+            ],
+            "Product Analytics": [
+                "Heap",
+                "Mixpanel"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Feature Store": [
+                "Molecula"
+            ],
+            "No code automation": [
+                "Integromat"
+            ]
+        }
+    },
+    {
+        "name": "Udemy",
+        "tools": {
+            "Data Warehouses": [
+                "Redshift",
+                "Databricks"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ]
+        }
+    },
+    {
+        "name": "Unionai",
+        "tools": {
+            "Workflow Orchestration": [
+                "Flyte"
+            ]
+        }
+    },
+    {
+        "name": "University-college-london",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Unsplash",
+        "tools": {
+            "Data Warehouses": [
+                "Redshift",
+                "Google BigQuery"
+            ],
+            "Data Lakes": [
+                "AWS S3",
+                "Google Cloud Storage"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Streaming": [
+                "AWS Kinesis"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Event Tracking": [
+                "Snowplow"
+            ]
+        }
+    },
+    {
+        "name": "Untitled-firm",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Business Intelligence (BI)": [
+                "Sisense"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Updater",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ]
+        }
+    },
+    {
+        "name": "Uproad",
+        "tools": {
+            "ETL Tools": [
+                "AWS Glue",
+                "Fivetran"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Customer Data Platform(CDP)": [
+                "mparticle"
+            ],
+            "Data Streaming": [
+                "AWS Kinesis"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Business Intelligence (BI)": [
+                "Redash"
+            ]
+        }
+    },
+    {
+        "name": "Userled",
+        "tools": {
+            "Data Lakes": [
+                "AWS S3"
+            ]
+        }
+    },
+    {
+        "name": "Vacasa",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Salesforce Einstein Analytics",
+                "Looker",
+                "Metabase"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Veed",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Workspace/ Collaboration": [
+                "Hex"
+            ]
+        }
+    },
+    {
+        "name": "Velir",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Business Intelligence (BI)": [
+                "Power BI"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Vendr",
+        "tools": {}
+    },
+    {
+        "name": "Veronica-beard",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ]
+        }
+    },
+    {
+        "name": "Vestwell",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Reverse ETL Tools": [
+                "Hightouch"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Business Intelligence (BI)": [
+                "Metabase"
+            ]
+        }
+    },
+    {
+        "name": "Vimeomate",
+        "tools": {
+            "Data Warehouses": [
+                "Databricks"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ],
+            "No code automation": [
+                "Integrately"
+            ],
+            "ETL Tools": [
+                "Funnel.io"
+            ]
+        }
+    },
+    {
+        "name": "Vizzly",
+        "tools": {
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Product Analytics": [
+                "PostHog"
+            ]
+        }
+    },
+    {
+        "name": "Vmt-pvt-ltd",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Streaming": [
+                "AWS Kinesis"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Warehouses": [
+                "Databricks"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ]
+        }
+    },
+    {
+        "name": "Vodafone",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Salesforce Einstein Analytics",
+                "Adverity.com"
+            ],
+            "Data Warehouses": [
+                "Vertica"
+            ],
+            "Augmented Analytics": [
+                "Adverity.com",
+                "Yellowfinbi"
+            ],
+            "Data Lakes": [
+                "Google Cloud Storage"
+            ]
+        }
+    },
+    {
+        "name": "Vts",
+        "tools": {
+            "Business Intelligence (BI)": [
+                "Looker",
+                "Tableau"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Wallbox",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran",
+                "Airbyte"
+            ],
+            "Reverse ETL Tools": [
+                "Hightouch"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake",
+                "Databricks"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Lakes": [
+                "Databricks"
+            ]
+        }
+    },
+    {
+        "name": "Walmart",
+        "tools": {
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Lakes": [
+                "AWS S3",
+                "Google Cloud Storage"
+            ],
+            "Augmented Analytics": [
+                "ThoughtSpot"
+            ],
+            "Data Cataloging": [
+                "Erwin By Quest"
+            ]
+        }
+    },
+    {
+        "name": "Wellthy",
+        "tools": {
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "ETL Tools": [
+                "Stitch",
+                "Fivetran"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Augmented Analytics": [
+                "ThoughtSpot"
+            ],
+            "Business Intelligence (BI)": [
+                "Mode"
+            ],
+            "Event Tracking": [
+                "Snowplow"
+            ],
+            "Product Analytics": [
+                "Mixpanel"
+            ],
+            "Reverse ETL Tools": [
+                "Hightouch"
+            ]
+        }
+    },
+    {
+        "name": "Winc",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ]
+        }
+    },
+    {
+        "name": "Wisdomgarden",
+        "tools": {
+            "Workflow Orchestration": [
+                "Airflow"
+            ]
+        }
+    },
+    {
+        "name": "Workiz",
+        "tools": {
+            "Data Warehouses": [
+                "Google BigQuery"
+            ],
+            "Business Intelligence (BI)": [
+                "Sisense",
+                "Looker"
+            ],
+            "No code automation": [
+                "Integromat"
+            ]
+        }
+    },
+    {
+        "name": "Workrise",
+        "tools": {
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Workflow Orchestration": [
+                "Prefect"
+            ],
+            "ETL Tools": [
+                "Fivetran"
+            ]
+        }
+    },
+    {
+        "name": "X-team",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake",
+                "Google BigQuery",
+                "Redshift"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ]
+        }
+    },
+    {
+        "name": "Xometry",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ]
+        }
+    },
+    {
+        "name": "Yotpo",
+        "tools": {
+            "Data Quality Monitoring": [
+                "Monte Carlo Data"
+            ],
+            "Data Streaming": [
+                "Apache Kafka"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau",
+                "Redash",
+                "Looker"
+            ],
+            "Data Lakes": [
+                "Apache Hudi",
+                "Upsolver",
+                "Delta.io",
+                "AWS S3"
+            ],
+            "ETL Tools": [
+                "Metorikku",
+                "Stitch"
+            ],
+            "Data Modelling and Transformation": [
+                "Upsolver",
+                "dbt",
+                "Apache Spark"
+            ],
+            "Data Warehouses": [
+                "Upsolver",
+                "Redshift",
+                "Snowflake"
+            ],
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Change Data Capture": [
+                "Debezium"
+            ],
+            "Data Privacy and Governance": [
+                "Okera"
+            ],
+            "Data Mesh": [
+                "Nexla"
+            ],
+            "Reverse ETL Tools": [
+                "Nexla"
+            ]
+        }
+    },
+    {
+        "name": "You-need-a-budget",
+        "tools": {
+            "ETL Tools": [
+                "Fivetran"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Metabase"
+            ]
+        }
+    },
+    {
+        "name": "Zapier",
+        "tools": {
+            "Workflow Orchestration": [
+                "Airflow"
+            ],
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ]
+        }
+    },
+    {
+        "name": "Zippi",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Reverse ETL Tools": [
+                "Hightouch"
+            ],
+            "Business Intelligence (BI)": [
+                "Metabase"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "ETL Tools": [
+                "Hevo Data"
+            ],
+            "Data Lakes": [
+                "AWS S3"
+            ],
+            "Operational Analytics ": [
+                "Logic Loop"
+            ]
+        }
+    },
+    {
+        "name": "Zocdoc",
+        "tools": {
+            "Data Modelling and Transformation": [
+                "dbt"
+            ],
+            "Data Warehouses": [
+                "Snowflake"
+            ],
+            "Business Intelligence (BI)": [
+                "Looker",
+                "Tableau"
+            ]
+        }
+    },
+    {
+        "name": "Zomato",
+        "tools": {
+            "Data Cataloging": [
+                "Cloudera"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ],
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau"
+            ]
+        }
+    },
+    {
+        "name": "Zoom",
+        "tools": {
+            "Data Warehouses": [
+                "Redshift"
+            ],
+            "Business Intelligence (BI)": [
+                "Tableau",
+                "Domo",
+                "Salesforce Einstein Analytics",
+                "Amazon Quick Sight"
+            ],
+            "Customer Data Platform(CDP)": [
+                "Segment"
+            ],
+            "Event Tracking": [
+                "Segment"
+            ]
+        }
+    }
+]
