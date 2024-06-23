@@ -39,6 +39,24 @@ SELECT * FROM information_schema.columns
 WHERE table_schema = 'public'
    AND table_name   = 'enterprise';
   
--- see sequence
-SELECT * FROM information_schema.sequences;
+  
+-- sequence
+select * from information_schema.sequences where sequence_name = 'enterprise_id_sequence';
+alter sequence enterprise_id_sequence restart 1;
+
+
+-- command insert data
+select * from enterprise e ;
+
+--delete from enterprise ;
+
+insert into enterprise values (nextval('enterprise_id_sequence'), '-');
+
+
+
+
+
+
+
+
   
