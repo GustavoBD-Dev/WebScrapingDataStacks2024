@@ -26,6 +26,15 @@ create table enterprise_tool(
 );
 
 
+create table tool_category(
+	id_tool numeric, 
+	id_category numeric
+);
+
+-- delete column
+alter table tools drop column id_category;
+
+
 -- set primary keys and secuence autoincrement to tables
 
 create sequence enterprise_id_sequence owned by enterprise.id_enterprise;
@@ -80,10 +89,14 @@ delete from enterprise_tool;
 
 -- query data
 select * from enterprise e order by name_enterprise ;
+
 select * from categories c ;
+
 select * from tools t  order by name_tool ;
+
 select * from enterprise_tool et ;
 
+select * from tool_category tc;
 
 
 insert into enterprise_tool 
@@ -101,5 +114,24 @@ insert into enterprise_tool values (
 		(select id_tool from tools where name_tool = 'Loreal'),
 		(select id_enterprise from enterprise where name_enterprise = 'Azure data factory'));
 
+insert into tool_category values (
+		(select id_tool from tools where name_tool = 'Segment'),
+		(select id_category from categories where name_category = 'Customer Data Platform(CDP)'));
+	
+-- command : get tool´s category
+-- issue: one tool can have more category, find if exists more cases 	
+	
+	
+select * 
+  from enterprise e
+  left join enterprise_tool et using(id_enterprise)
+  left join tools t using (id_tool)
+  left join tool_category tc using(id_tool)	
+  left join categories c using(id_category);
+	
+	
+	
+	
+	
+	
 
-  

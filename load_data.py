@@ -46,6 +46,16 @@ def enterprise_tool(data):
         enterprise_tools.append([i['name'], k])
   return enterprise_tools
 
+# add function
+def category_tools(data):
+  d = []
+  for i in data:
+    for j in i['tools']:
+      for k in i['tools'][j]:
+        if [j, k] not in d:
+          d.append([j, k])
+  return d
+
 # connect to database
 var_conn = create_connection_db()
 
@@ -55,12 +65,15 @@ enterprises = get_enterprises(data)
 tools = get_tools(data)
 categories = get_categories(data)
 enterprise_tool_rels = enterprise_tool(data)
+category_tools_rels = category_tools(data)
 
 # upload into database
+# -------
 #load_enterprise(enterprises=enterprises, cur=var_conn)
 #load_categories(categories=categories, cur=var_conn)
 #load_tools(tools=tools, cur=var_conn)
-load_enterprise_tool(rels=enterprise_tool_rels, cur=var_conn)
+#load_enterprise_tool(rels=enterprise_tool_rels, cur=var_conn)
+#load_category_tool(rels=category_tools_rels, cur=var_conn)
 
 # close connection database
 close_connection_db(var_conn)

@@ -33,6 +33,12 @@ def load_enterprise_tool(rels, cur) -> None:
         # print(sql)
         cur.execute(sql)
 
+def load_category_tool(rels, cur) -> None:
+    for rel in rels:
+        sql = "insert into tool_category values ((select id_tool from tools where name_tool = '{}'),(select id_category from categories where name_category = '{}'));".format(str(rel[1]), str(rel[0]))
+        # print(sql)
+        cur.execute(sql)
+    
 
 def close_connection_db( connection ) -> None:
     # save changes on database
