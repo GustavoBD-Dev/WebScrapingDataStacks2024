@@ -29,34 +29,77 @@ create table enterprise_tool(
 -- set primary keys and secuence autoincrement to tables
 
 create sequence enterprise_id_sequence owned by enterprise.id_enterprise;
-
 alter table enterprise alter column id_enterprise set default nextval('enterprise_id_sequence'); 
-
 update enterprise set id_enterprise = nextval('enterprise_id_sequence'); 
+
+create sequence category_id_sequence owned by categories.id_category;
+alter table categories alter column id_category set default nextval('category_id_sequence'); 
+update categories set id_category = nextval('category_id_sequence'); 
+
+create sequence tool_id_sequence owned by tools.id_tool;
+alter table tools alter column id_tool set default nextval('tool_id_sequence'); 
+update tools set id_tool = nextval('tool_id_sequence'); 
+
 
 -- command describe table
 SELECT * FROM information_schema.columns
 WHERE table_schema = 'public'
    AND table_name   = 'enterprise';
+
+SELECT * FROM information_schema.columns
+ WHERE table_schema = 'public'
+   AND table_name   = 'categories';
   
+SELECT * FROM information_schema.columns
+ WHERE table_schema = 'public'
+   AND table_name   = 'tools';
   
--- sequence
-select * from information_schema.sequences where sequence_name = 'enterprise_id_sequence';
+    
+-- sequences
+select * 
+  from information_schema.sequences 
+ where sequence_name in ('enterprise_id_sequence', 'category_id_sequence', 'tool_id_sequence');
+
+
+-- restart sequence
 alter sequence enterprise_id_sequence restart 1;
+alter sequence category_id_sequence restart 1;
+alter sequence tool_id_sequence restart 1;
 
 
--- command insert data
-select * from enterprise e ;
-
+-- test command -> insert data
 --delete from enterprise ;
-
-insert into enterprise values (nextval('enterprise_id_sequence'), '-');
-
+--insert into enterprise values (nextval('enterprise_id_sequence'), '-');
 
 
+delete from enterprise;
+delete from categories;
+delete from tools;
+delete from enterprise_tool;
+
+
+-- query data
+select * from enterprise e order by name_enterprise ;
+select * from categories c ;
+select * from tools t  order by name_tool ;
+select * from enterprise_tool et ;
 
 
 
+insert into enterprise_tool 
+values (
+			(select id_tool from tools where name_tool = 'Segment'),
+			(select id_enterprise from enterprise where name_enterprise = 'Facts')
+	   );
+	   
+	   
+select * from enterprise e where name_enterprise  = 'Facts'; 
+
+select * from tools t where name_tool = 'Segment';
+
+insert into enterprise_tool values (
+		(select id_tool from tools where name_tool = 'Loreal'),
+		(select id_enterprise from enterprise where name_enterprise = 'Azure data factory'));
 
 
   
