@@ -43,7 +43,7 @@ def enterprise_tool(data):
       # print(j)
       for k in i['tools'][j]:
         # print(k) # tool
-        enterprise_tools.append([i['name'], k])
+        enterprise_tools.append([i['name'], j, k])
   return enterprise_tools
 
 # add function
@@ -72,7 +72,7 @@ category_tools_rels = category_tools(data)
 #load_enterprise(enterprises=enterprises, cur=var_conn)
 #load_categories(categories=categories, cur=var_conn)
 #load_tools(tools=tools, cur=var_conn)
-#load_enterprise_tool(rels=enterprise_tool_rels, cur=var_conn)
+load_enterprise_tool(rels=enterprise_tool_rels, cur=var_conn)
 #load_category_tool(rels=category_tools_rels, cur=var_conn)
 
 # close connection database

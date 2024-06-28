@@ -29,7 +29,7 @@ def load_tools(tools, cur) -> None:
 
 def load_enterprise_tool(rels, cur) -> None:
     for rel in rels:
-        sql = "insert into enterprise_tool values ((select id_tool from tools where name_tool = '{}'),(select id_enterprise from enterprise where name_enterprise = '{}'));".format(str(rel[1]), str(rel[0]))
+        sql = "insert into enterprise_tool values ((select id_tool from tools where name_tool = '{}'),(select id_enterprise from enterprise where name_enterprise = '{}'),(select id_category from categories where name_category = '{}'));".format(str(rel[2]), str(rel[0]), str(rel[1]))
         # print(sql)
         cur.execute(sql)
 

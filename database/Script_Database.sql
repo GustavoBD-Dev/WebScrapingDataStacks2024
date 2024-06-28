@@ -25,6 +25,7 @@ create table enterprise_tool(
 	id_enterprise numeric
 );
 
+alter table enterprise_tool add id_category numeric;
 
 create table tool_category(
 	id_tool numeric, 
@@ -96,7 +97,7 @@ select * from tools t  order by name_tool ;
 
 select * from enterprise_tool et ;
 
-select * from tool_category tc;
+select * from tool_category tc order by id_tool;
 
 
 insert into enterprise_tool 
@@ -111,8 +112,10 @@ select * from enterprise e where name_enterprise  = 'Facts';
 select * from tools t where name_tool = 'Segment';
 
 insert into enterprise_tool values (
-		(select id_tool from tools where name_tool = 'Loreal'),
-		(select id_enterprise from enterprise where name_enterprise = 'Azure data factory'));
+		(select id_tool from tools where name_tool = 'Redash'),
+		(select id_enterprise from enterprise where name_enterprise = 'Yotpo'),
+		(select id_category from categories where name_category = 'Business Intelligence (BI)')
+		);
 
 insert into tool_category values (
 		(select id_tool from tools where name_tool = 'Segment'),
@@ -123,15 +126,13 @@ insert into tool_category values (
 	
 	
 select * 
-  from enterprise e
-  left join enterprise_tool et using(id_enterprise)
+  from enterprise_tool et
+  left join enterprise e using(id_enterprise)
   left join tools t using (id_tool)
-  left join tool_category tc using(id_tool)	
   left join categories c using(id_category);
 	
 	
-	
-	
+
 	
 	
 
