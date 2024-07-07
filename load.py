@@ -6,8 +6,8 @@ def create_connection_db():
         host="localhost",
         port=5432,
         database="data_stack",
-        user="gblasd",
-        password="msd9bn45"
+        user="",
+        password=""
     )
     connection.autocommit = True
     return connection.cursor()
